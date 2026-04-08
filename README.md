@@ -1,8 +1,8 @@
-# spotify-kpop-analysis
-# Kpop vs The World — Spotify Genre Analysis
+# Spotify K-Pop Analysis
+# Data Analysis
 
 ## Business Question
-What drives Kpop's global streaming dominance, and what can Western music labels learn from its formula?
+What is the reason for Korean pop's global streaming dominance and what can Western music labels learn from its formula?
 
 ## Tools Used
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) | Tableau Public
@@ -17,9 +17,9 @@ Spotify tracks dataset (1986–2023) sourced from Kaggle. Popularity scores refl
 4. Audio features explain only 30% of popularity — marketing and production drive the rest
 
 ## Business Recommendations
-1. Western labels should invest in Kpop artists now before market saturation
-2. Prioritise production quality and mastering over chasing trending sounds
-3. Develop versatile artists capable of delivering across multiple sonic profiles
+1. Music label Companies can start investing in Kpop artists now before the market is saturated.
+2. One of the major key features that separated kpop from the other genres was the production and creating something new with emotional undertones over chasing trending sounds.
+3. Thorough research on the market gap and producing versatile artists capable of delivering success.
 
 ## Dashboard
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/arshitha.raj5466/viz/SpotifyK-PopBook/RiseofK-poponSpotifyGlobalCharts)
